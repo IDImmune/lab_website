@@ -1,0 +1,61 @@
+---
+---
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 40px 0 20px 0;
+  font-family: var(--heading);
+  font-weight: var(--semi-bold);
+  text-align: left;
+  letter-spacing: 1px;
+}
+
+h1 {
+  margin: 40px 0;
+  font-size: 1.6rem;
+  font-weight: var(--regular);
+  text-transform: none;
+  text-align: center;
+}
+
+h2 {
+  font-size: 1.6rem;
+  padding-bottom: 5px;
+  border-bottom: solid 1px var(--light-gray);
+  font-weight: var(--regular);
+}
+
+h3 {
+  font-size: 1.5rem;
+}
+
+h4 {
+  font-size: 1.3rem;
+}
+
+h5 {
+  font-size: 1.15rem;
+}
+
+h6 {
+  font-size: 1rem;
+}
+
+:where(h1, h2, h3, h4, h5, h6) > .icon {
+  margin-right: 1em;
+  color: var(--light-gray);
+}
+.graphical-abstract {
+  display: block;
+  margin: 2rem auto;
+  max-width: 80%;
+  height: auto;
+  border-radius: 8px;
+
+  /* Softer, more subtle shadow */
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.05);
+}

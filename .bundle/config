@@ -1,0 +1,3 @@
+---
+BUNDLE_BUILD__NOKOGIRI: "--with-arch=arm64"
+BUNDLE_BUILD__POSIX___SPAWN: "--with-cflags=-arch arm64"

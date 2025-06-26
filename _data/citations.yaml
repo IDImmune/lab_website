@@ -1,0 +1,109 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY
+
+- id: doi:10.1038/s41586-024-07499-6
+  title: Profiling phagosome proteins identifies PD-L1 as a fungal-binding receptor
+  authors:
+  - Kai Li
+  - Avradip Chatterjee
+  - Chen Qian
+  - Katherine Lagree
+  - Yang Wang
+  - Courtney A. Becker
+  - Michael R. Freeman
+  - Ramachandran Murali
+  - Wei Yang
+  - David M. Underhill
+  publisher: Nature
+  date: '2024-06-05'
+  featured: true
+  link: https://doi.org/g9qvvz
+  orcid: 0000-0003-3329-8125
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:35354044
+  title: Pathogen size alters C-type lectin receptor signaling in dendritic cells
+    to influence CD4 Th9 cell differentiation.
+  authors:
+  - Seeun Oh
+  - Kai Li
+  - Alexander Prince
+  - Matthew L Wheeler
+  - Hussein Hamade
+  - Christopher Nguyen
+  - Kathrin S Michelsen
+  - David M Underhill
+  publisher: Cell reports
+  date: '2022-03-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35354044
+  orcid: 0000-0003-3329-8125
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:32060644
+  title: C-Type Lectin Receptors in Phagocytosis.
+  authors:
+  - Kai Li
+  - David M Underhill
+  publisher: Current topics in microbiology and immunology
+  date: '2020-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32060644
+  orcid: 0000-0003-3329-8125
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:31451663
+  title: The uric acid crystal receptor Clec12A potentiates type I interferon responses.
+  authors:
+  - Kai Li
+  - Konstantin Neumann
+  - Vikas Duhan
+  - Sukumar Namineni
+  - Anne Louise Hansen
+  - Tim Wartewig
+  - Zsuzsanna Kurgyis
+  - Christian K Holm
+  - Mathias Heikenwalder
+  - Karl S Lang
+  - "J\xFCrgen Ruland"
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2019-08-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31451663
+  orcid: 0000-0003-3329-8125
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/oncsis.2016.78
+  title: "In vivo functional dissection of a context-dependent role for Hif1\u03B1\
+    \ in pancreatic tumorigenesis"
+  authors:
+  - T Cheng
+  - Z Jian
+  - K Li
+  - S Raulefs
+  - I Regel
+  - S Shen
+  - X Zou
+  - J Ruland
+  - G O Ceyhan
+  - H Friess
+  - C W Michalski
+  - J Kleeff
+  - B Kong
+  publisher: Oncogenesis
+  date: '2016-12-12'
+  link: https://doi.org/gbrqgb
+  orcid: 0000-0003-3329-8125
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:21839133
+  title: "\u03B1-Galactosylceramide potently augments M2e-induced protective immunity\
+    \ against highly pathogenic H5N1 avian influenza virus infection in mice."
+  authors:
+  - Kai Li
+  - Jing Luo
+  - Chengmin Wang
+  - Hongxuan He
+  publisher: Vaccine
+  date: '2011-08-10'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21839133
+  orcid: 0000-0003-3329-8125
+  plugin: orcid.py
+  file: orcid.yaml

@@ -1,0 +1,48 @@
+- title: Upgrading Proximity Labeling-based Approaches for Studying Phagosome
+  group: featured
+  image: /images/projects/phagoPL.png
+  tags:
+    - resource
+  description: >
+    <p><strong>Phagocytosis</strong> generates intracellular compartments—<strong>phagosomes</strong>—that serve as central hubs for innate immune sensing of potentially harmful microbes, dying cells, cellular debris, and foreign particles. These organelles are enriched with receptors, enzymes, and signaling molecules that assess the nature of the internalized cargo and coordinate appropriate immune responses.</p>
+
+    <p>Despite the phagosome’s critical role in immune surveillance, the protein composition of phagosomes—especially those containing biologically relevant cargoes like microbes—remains poorly characterized.</p>
+
+    <p>Building on proximity labeling (PL) technology, we previously developed <strong>PhagoPL</strong>, a method for profiling the proteome of phagosomes containing model microorganisms. This approach enabled the discovery of novel microbe-sensing mechanisms.</p>
+
+    <p>One major project in our lab is to further upgrade PhagoPL into a more versatile platform for studying the proteome of diverse intracellular vesicles. Current goals include:</p>
+    <ul>
+      <li>Eliminating the need for genetically engineered microbes, which is essential for studying scientifically important organisms that are not genetically tractable.</li>
+      <li>Developing smaller labeling tools to replace large proximity-labeling enzymes, enabling analysis of small vesicles formed after uptake of soluble cargo.</li>
+    </ul>
+
+
+
+- title: Immune Recognition of Dead Cells
+  group: featured
+  image: /images/projects/dead_cells.png
+  tags:
+    - immunology
+  description: >
+    <p>In addition to defending against microbes, phagocytes continually monitor the body for <strong>damaged, dying, or dead cells</strong> through efferocytosis. These processes must be tightly regulated to avoid autoimmune, fibrotic, or inflammatory diseases.</p>
+
+    <p>Beyond degrading internalized dead cells, phagosomes formed during efferocytosis are enriched with proteins that <strong>bind and recognize features of cell death</strong>, providing a platform to decode death-associated signals—particularly in the context of antigen presentation.</p>
+
+    <p>Our lab is using <strong>PhagoPL</strong> to map the proteomes of phagosomes containing different types of dead cells. With this, we aim to address two key questions:</p>
+
+    <ul>
+      <li><strong>What distinct sets of proteins</strong> do phagocytes employ to uptake, process, and respond to different types of dead cells?</li>
+      <li><strong>How does phagosome composition</strong> influence the ability of phagocytes—especially specific dendritic cell subsets—to carry out antigen cross-presentation?</li>
+    </ul>
+
+- title: Host Interaction with Intracellular Bacteria
+  group: featured
+  image: /images/projects/bacteria.png
+  tags:
+    - research
+  description: >
+    <p>In earlier work, we applied <strong>PhagoPL</strong> to analyze phagosomes containing avirulent gram-negative <em>E. coli</em>. Our ongoing efforts aim to extend this work to <strong>pathogenic intracellular bacteria</strong>, investigating how host cells interact with a broader range of virulent species.</p>
+
+    <p>This project will use PhagoPL to dissect host-bacteria interactions within bacteria-containing vacuoles, with the goal of identifying novel mechanisms of innate immune and bacteria virulence conteraction.</p>
+
+    <p>In parallel, we are also developing new approaches to study host-intrinsic responses to <strong>bacteria that escape from vacuoles into the cytosol</strong>.</p>
